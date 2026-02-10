@@ -16,6 +16,7 @@ blockquote {
   background-color: #eff0f5;
   border: 1px solid #cacaca;
   font-family: monospace;
+  padding: 1em 0.5em;
 }
 
 em {
@@ -27,4 +28,5 @@ em {
 p strong {
   color: #6094e0;
   border-left: 4px solid #165cdd;
+  padding-left: 0.25em;
 }
